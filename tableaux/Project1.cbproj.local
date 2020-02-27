@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/02/18 10:43:03.369,=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/02/18 10:43:03.374,=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2020/02/18 10:43:57.852,C:\Users\Vola-Timing-Two\Documents\c++\OC\tableaux\File1.cpp=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2020/02/18 10:44:01.011,C:\Users\Vola-Timing-Two\Documents\c++\OC\tableaux\Project1PCH1.h=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/02/18 10:44:02.735,C:\Users\Vola-Timing-Two\Documents\c++\OC\tableaux\Project1.cbproj=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

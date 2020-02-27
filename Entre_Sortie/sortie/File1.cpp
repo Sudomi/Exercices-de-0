@@ -1,0 +1,60 @@
+#pragma hdrstop
+#pragma argsused
+
+#ifdef _WIN32
+#include <tchar.h>
+#else
+  typedef char _TCHAR;
+  #define _tmain main
+#endif
+
+#include <stdio.h>
+#include <string>
+#include <iostream>
+using namespace std;
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+    cout << "Combien vaut pi ?" << endl;
+    double piUtilisateur(-1.); //On crée une case mémoire pour stocker unnombre réel
+    cin >> piUtilisateur; //Et on remplit cette case avec ce qu'écritl'utilisateur
+
+    cin.ignore();
+
+    cout << "Quel est votre nom ?" << endl;
+    string nomUtilisateur("Sans nom"); //On crée une case mémoire pour contenir une chaine de caractères
+    getline(cin, nomUtilisateur); //On remplit cette case avec toute la ligne que l'utilisateur a écrit
+
+    cout << "Vous vous appelez " << nomUtilisateur << " et vous pensez que pivaut " << piUtilisateur << "." << endl;
+	system("PAUSE");
+    return 0;
+
+}
+
+/* // Version 2 Seulement getline
+	cout << "Quel est votre nom ?" << endl;
+	string nomUtilisateur("Sans nom"); //On crée une case mémoire pour contenir une chaine de caractères
+	getline(cin, nomUtilisateur); //On remplit cette case avec toutela ligne que l'utilisateur a écrit
+
+	cout << "Combien vaut pi ?" << endl;
+	double piUtilisateur(-1.); //On crée une case mémoire pour stockerun nombre réel
+	cin >> piUtilisateur; //Et on remplit cette case avec ce qu'écritl'utilisateur
+
+	cout << "Vous vous appelez " << nomUtilisateur << " et vous pensez que pivaut " << piUtilisateur << "." << endl;
+	system("PAUSE");
+	return 0;
+*/
+
+/* // Version 1 Seulement CIN
+	cout << "Quel est votre prenom ?" << endl;
+	string nomUtilisateur("Sans nom"); //On crée une case mémoire pour contenirune chaine de caractères
+	cin >> nomUtilisateur; //On remplit cette case avec ce qu'écrit l'utilisateur
+
+	cout << "Combien vaut pi ?" << endl;
+	double piUtilisateur(-1.); //On crée une case mémoire pour stocker un nombre réel
+	cin >> piUtilisateur; //Et on remplit cette case avec ce qu'écritl'utilisateur
+
+	cout << "Vous vous appelez " << nomUtilisateur << " et vous pensez que pi vaut " << piUtilisateur << "." << endl;
+	system("PAUSE");
+	return 0;
+*/
