@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/27 08:26:29.000.566,=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2020/02/27 08:26:29.000.561,=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/02/27 11:43:07.000.485,C:\Users\Vola-Timing-Two\Documents\c++\OC\Les Classes\main.cpp=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2020/02/27 11:43:25.000.686,C:\Users\Vola-Timing-Two\Documents\c++\OC\Les Classes\ProjectClassePCH1.h=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/02/27 11:43:39.000.309,C:\Users\Vola-Timing-Two\Documents\c++\OC\Les Classes\ProjectClasse.cbproj=C:\Users\Vola-Timing-Two\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2020/02/28 15:13:10.172,=C:\Users\Vola-Timing-Two\Documents\c++\OC\Exercices de 0\Les Classes\File1.cpp</Transaction>
+    <Transaction>2020/02/28 15:13:36.127,C:\Users\Vola-Timing-Two\Documents\c++\OC\Exercices de 0\Les Classes\Personnage.cpp=C:\Users\Vola-Timing-Two\Documents\c++\OC\Exercices de 0\Les Classes\File1.cpp</Transaction>
+    <Transaction>2020/02/28 15:13:43.920,=C:\Users\Vola-Timing-Two\Documents\c++\OC\Exercices de 0\Les Classes\File1.h</Transaction>
+    <Transaction>2020/02/28 15:14:11.103,C:\Users\Vola-Timing-Two\Documents\c++\OC\Exercices de 0\Les Classes\Personnage.h=C:\Users\Vola-Timing-Two\Documents\c++\OC\Exercices de 0\Les Classes\File1.h</Transaction>
+  </Transactions>
+</BorlandProject>
